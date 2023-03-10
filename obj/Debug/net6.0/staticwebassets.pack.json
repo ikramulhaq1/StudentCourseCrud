@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Panacealogics\\source\\repos\\studentcoursecrud\\studentcoursecrud\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "C:\\Users\\Panacealogics\\source\\repos\\studentcoursecrud\\studentcoursecrud\\wwwroot\\Main.js",
+      "PackagePath": "staticwebassets\\Main.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.studentcoursecrud.props",
+      "PackagePath": "build\\studentcoursecrud.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.studentcoursecrud.props",
+      "PackagePath": "buildMultiTargeting\\studentcoursecrud.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.studentcoursecrud.props",
+      "PackagePath": "buildTransitive\\studentcoursecrud.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.studentcoursecrud.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "Jq8rFKgPETBXg0hNBMpViyK+ak5VC7kAziiWW0TSTWo=",
+  "Source": "studentcoursecrud",
+  "BasePath": "_content/studentcoursecrud",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "studentcoursecrud\\wwwroot",
+      "Source": "studentcoursecrud",
+      "ContentRoot": "C:\\Users\\Panacealogics\\source\\repos\\studentcoursecrud\\studentcoursecrud\\wwwroot\\",
+      "BasePath": "_content/studentcoursecrud",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Panacealogics\\source\\repos\\studentcoursecrud\\studentcoursecrud\\wwwroot\\Index.html",
+      "SourceId": "studentcoursecrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Panacealogics\\source\\repos\\studentcoursecrud\\studentcoursecrud\\wwwroot\\",
+      "BasePath": "_content/studentcoursecrud",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Panacealogics\\source\\repos\\studentcoursecrud\\studentcoursecrud\\wwwroot\\Main.js",
+      "SourceId": "studentcoursecrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Panacealogics\\source\\repos\\studentcoursecrud\\studentcoursecrud\\wwwroot\\",
+      "BasePath": "_content/studentcoursecrud",
+      "RelativePath": "Main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Main.js"
+    }
+  ]
+}
